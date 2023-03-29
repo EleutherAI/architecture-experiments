@@ -13,5 +13,5 @@ python -m paxml.main \
 
 ## ToDos
 
-[ ] ST-Moe Implementation
-[ ] muP Implementation
+- [ ] ST-Moe Implementation
+- [ ] muP Implementation
